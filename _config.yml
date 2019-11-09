@@ -1,5 +1,5 @@
 permalinks: pretty
-
+url: 'https://allwinjoseph.github.io/realcottages.io'
 collections:
   cottages:
     output: true
